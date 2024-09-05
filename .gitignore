@@ -13,6 +13,3 @@
 
 # Python
 .pyc
-
-# Cargo
-Cargo.lock
